@@ -1,1 +1,1 @@
-# Body-fat-Logistic-Regression
+# Obesity-Logistic-Regression
